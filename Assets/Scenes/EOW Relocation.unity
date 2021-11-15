@@ -2162,8 +2162,8 @@ GameObject:
   - component: {fileID: 183902407}
   - component: {fileID: 183902406}
   - component: {fileID: 183902405}
-  - component: {fileID: 183902409}
   - component: {fileID: 183902408}
+  - component: {fileID: 183902409}
   m_Layer: 0
   m_Name: Text (TMP) (1)
   m_TagString: Untagged
@@ -8658,8 +8658,8 @@ GameObject:
   - component: {fileID: 392140100}
   - component: {fileID: 392140099}
   - component: {fileID: 392140098}
-  - component: {fileID: 392140102}
   - component: {fileID: 392140101}
+  - component: {fileID: 392140102}
   m_Layer: 0
   m_Name: Text (TMP) (2)
   m_TagString: Untagged
@@ -24178,8 +24178,8 @@ GameObject:
   - component: {fileID: 941199254}
   - component: {fileID: 941199253}
   - component: {fileID: 941199252}
-  - component: {fileID: 941199256}
   - component: {fileID: 941199255}
+  - component: {fileID: 941199256}
   m_Layer: 0
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
@@ -27566,8 +27566,8 @@ GameObject:
   - component: {fileID: 1223543332}
   - component: {fileID: 1223543331}
   - component: {fileID: 1223543330}
-  - component: {fileID: 1223543334}
   - component: {fileID: 1223543333}
+  - component: {fileID: 1223543334}
   m_Layer: 0
   m_Name: Text (TMP) (5)
   m_TagString: Untagged
@@ -29048,8 +29048,8 @@ GameObject:
   - component: {fileID: 1228783347}
   - component: {fileID: 1228783346}
   - component: {fileID: 1228783345}
-  - component: {fileID: 1228783349}
   - component: {fileID: 1228783348}
+  - component: {fileID: 1228783349}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -45368,8 +45368,8 @@ GameObject:
   - component: {fileID: 1682821838}
   - component: {fileID: 1682821837}
   - component: {fileID: 1682821836}
-  - component: {fileID: 1682821840}
   - component: {fileID: 1682821839}
+  - component: {fileID: 1682821840}
   m_Layer: 0
   m_Name: Text (TMP) (4)
   m_TagString: Untagged
@@ -66846,6 +66846,50 @@ MonoBehaviour:
   m_TeleportationProvider: {fileID: 0}
   m_MatchOrientation: 0
   m_TeleportTrigger: 0
+--- !u!1 &1947970674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1947970676}
+  - component: {fileID: 1947970675}
+  m_Layer: 0
+  m_Name: MyNameScript
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1947970675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947970674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45750b20c8100b640a68201267a7e36c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Chris
+--- !u!4 &1947970676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947970674}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.346281, y: 7.4522796, z: 16.273848}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1949639725
 Mesh:
   m_ObjectHideFlags: 0
