@@ -5,13 +5,6 @@ The gallery spaces are simply represented by walls and a plain floor to actual s
 
 Interaction is limited to teleporting around the environment using the righthand grab switch to select areas in which to ‘teleport. There are no interactions other than each of the exhibits having a mesh collider component to prevent the user teleporting inside a rock, tree or dinosaur.
 
-https://zenodo.org/record/5706320
-
- DOI
-
-10.5281/zenodo.5706320
-
-Markdown
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg)](https://doi.org/10.5281/zenodo.5706320)
 
@@ -19,17 +12,4 @@ reStructedText
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg
    :target: https://doi.org/10.5281/zenodo.5706320
-
-HTML
-
-<a href="https://doi.org/10.5281/zenodo.5706320"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg" alt="DOI"></a>
-
-Image URL
-
-https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg
-
-Target URL
-
-https://doi.org/10.5281/zenodo.5706320
-
 
