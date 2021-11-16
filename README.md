@@ -7,9 +7,3 @@ Interaction is limited to teleporting around the environment using the righthand
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg)](https://doi.org/10.5281/zenodo.5706320)
-
-reStructedText
-
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5706320.svg
-   :target: https://doi.org/10.5281/zenodo.5706320
-
